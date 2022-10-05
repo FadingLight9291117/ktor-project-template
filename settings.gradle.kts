@@ -1,1 +1,1 @@
-rootProject.name = "cn.fadinglight.bill-ktor"
+rootProject.name = "cn.fadinglight.ktor-project-template"
